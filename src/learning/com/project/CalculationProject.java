@@ -17,6 +17,11 @@ public class CalculationProject {
 		int sum = a+b;
 		System.out.println("Sum of " +a  +" &  " +b +" is: " +sum);
 	}
+	
+	public static void multiply(int a, int b) {
+		int mul = a*b;
+		System.out.println("Multiply of " +a  +" &  " +b +" is: " +mul);
+	}
 
 }
 
