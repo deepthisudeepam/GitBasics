@@ -23,6 +23,9 @@ public class CalculationProject {
 		System.out.println("Multiply of " +a  +" &  " +b +" is: " +mul);
 	}
 
+	public static void newCode() {
+		//G can you please add the code here
+	}
 }
 
 
